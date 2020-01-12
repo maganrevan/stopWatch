@@ -13,6 +13,7 @@
 		5DB1354823C913CE008B8F5F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DB1354623C913CE008B8F5F /* Main.storyboard */; };
 		5DB1354A23C913D5008B8F5F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DB1354923C913D5008B8F5F /* Assets.xcassets */; };
 		5DB1354D23C913D5008B8F5F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DB1354B23C913D5008B8F5F /* LaunchScreen.storyboard */; };
+		5DB1355523C91453008B8F5F /* class.stopWatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB1355423C91453008B8F5F /* class.stopWatch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5DB1354923C913D5008B8F5F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5DB1354C23C913D5008B8F5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5DB1354E23C913D5008B8F5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5DB1355423C91453008B8F5F /* class.stopWatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = class.stopWatch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				5DB1354923C913D5008B8F5F /* Assets.xcassets */,
 				5DB1354B23C913D5008B8F5F /* LaunchScreen.storyboard */,
 				5DB1354E23C913D5008B8F5F /* Info.plist */,
+				5DB1355423C91453008B8F5F /* class.stopWatch.swift */,
 			);
 			path = stopWatch_V2;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5DB1354523C913CE008B8F5F /* ViewController.swift in Sources */,
+				5DB1355523C91453008B8F5F /* class.stopWatch.swift in Sources */,
 				5DB1354123C913CE008B8F5F /* AppDelegate.swift in Sources */,
 				5DB1354323C913CE008B8F5F /* SceneDelegate.swift in Sources */,
 			);
